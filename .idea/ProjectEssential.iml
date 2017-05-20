@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lib1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/aqua" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/basicWhite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/blueGlass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/darcula" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/dark" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/darkBlue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/darkBlue(FreeCAD)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/darkGreen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/darkGreen(FreeCAD)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/darkOrange" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/darkOrange(FreeCAD)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/light" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/lightBlue(FreeCAD)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/lightGreen(FreeCAD)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/lightOrange(FreeCAD)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/machinery" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/minimalist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/nightMapping" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gui/css/wombat" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="Nosetests" />
+    <option name="PROJECT_TEST_RUNNER" value="Nosetests" />
+  </component>
+</module>
