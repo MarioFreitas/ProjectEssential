@@ -25,7 +25,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.setWindowIcon(QIcon('./img/icon.png'))
         self.setGeometry(100, 100, 800, 600)
         self.statusBar()
-        self.change_qss('actionLight')
+        self.change_qss('actionBasicWhite')
 
     def change_qss(self, theme):
         themes = {'actionAqua': './gui/css/aqua/aqua.qss',
