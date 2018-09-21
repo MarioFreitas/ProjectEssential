@@ -6,6 +6,9 @@ import sys
 import os
 from gui.lib import *
 
+if getattr(sys, 'frozen', False):
+    os.chdir(sys._MEIPASS)
+
 class MainWindow(QMainWindow, Ui_MainWindow):
     """
     Main window of the application. Contains all global parameters of the GUI application.
